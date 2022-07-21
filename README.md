@@ -1,2 +1,2 @@
 # Yo-Programo-Frontend
-Repositorio para el Front de #YoProgramo
+Repositorio para el Frontend de #YoProgramo
